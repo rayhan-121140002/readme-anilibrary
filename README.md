@@ -2,10 +2,13 @@
 
 ## About
 
-AniLibrary, crafted by Transcendent, is a user-friendly mobile application dedicated to anime enthusiasts. At its core, AniLibrary offers an immersive and comprehensive anime experience to the anime world. The application showcases a dynamic homepage featuring the latest seasonal anime releases, complemented by an intuitive search functionality. Beyond being a mere display platform, AniLibrary excels in personalization, allowing users to create and manage their profiles, and track their anime watchlists. This includes maintaining a curated list of watched and planned anime. The app’s unique edge lies in its consolidation of anime-related content, eliminating the need to shuffle between various websites for updates. Whether it’s staying current with seasonal anime, exploring detailed information on your favorite series, or managing your anime journey, AniLibrary is your all-encompassing gateway to the vibrant and ever-evolving universe of anime. Embracing the MVVM architecture, AniLibrary ensures a seamless and independent interaction between its user interface and underlying logic, facilitating an enjoyable and personalized anime exploration journey.
+AniLibrary, crafted by Transcendent, is a user-friendly mobile application dedicated to anime enthusiasts. At its core, AniLibrary offers an immersive and comprehensive anime experience to the anime world. The application showcases a dynamic homepage featuring the latest seasonal anime releases, complemented by an intuitive search functionality. Beyond being a mere display platform, AniLibrary excels in personalization, allowing users to create and manage their profiles, and track their anime watchlists. This includes maintaining a curated list of watched and planned anime.
+
+The app’s unique edge lies in its consolidation of anime-related content, eliminating the need to shuffle between various websites for updates. Whether it’s staying current with seasonal anime, exploring detailed information on your favorite series, or managing your anime journey, AniLibrary is your all-encompassing gateway to the vibrant and ever-evolving universe of anime. Embracing the MVVM architecture, AniLibrary ensures a seamless and independent interaction between its user interface and underlying logic, facilitating an enjoyable and personalized anime exploration journey.
+
+[Download the app here. (Google Drive)](https://drive.google.com/drive/folders/1RmIQgCIg-_VX-Xl37YjNNwO0A8-WP2dv?usp=sharing)
 
 ## Features
-(Rencananya di sini fitur-fiturnya dibahas dalam bentuk poin. Ada gambarnya juga, berupa screen record fiturnya dalam GIF.)
 - Welcome Screen
 
   ![Welcome Screen](https://drive.google.com/uc?export=view&id=1WP37M_rqAg4QZl2IOzBFBGPIov6eLbde)
