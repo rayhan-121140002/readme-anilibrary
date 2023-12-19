@@ -2,8 +2,7 @@
 
 ## About
 
-AniLibrary is an innovative and user-friendly mobile application designed for your anime-related needs, featuring a dynamic homepage to showcase the latest seasonal anime releases, personalize user profiles, and search functionality. It also provides a feature for tracking your anime watchlists by saving them in featured lists.
-(sementara gini dulu)
+AniLibrary, crafted by Transcendent, is a user-friendly mobile application dedicated to anime enthusiasts. At its core, AniLibrary offers an immersive and comprehensive anime experience to the anime world. The application showcases a dynamic homepage featuring the latest seasonal anime releases, complemented by an intuitive search functionality. Beyond being a mere display platform, AniLibrary excels in personalization, allowing users to create and manage their profiles, and track their anime watchlists. This includes maintaining a curated list of watched and planned anime. The app’s unique edge lies in its consolidation of anime-related content, eliminating the need to shuffle between various websites for updates. Whether it’s staying current with seasonal anime, exploring detailed information on your favorite series, or managing your anime journey, AniLibrary is your all-encompassing gateway to the vibrant and ever-evolving universe of anime. Embracing the MVVM architecture, AniLibrary ensures a seamless and independent interaction between its user interface and underlying logic, facilitating an enjoyable and personalized anime exploration journey.
 
 ## Features
 (Rencananya di sini fitur-fiturnya dibahas dalam bentuk poin. Ada gambarnya juga, berupa screen record fiturnya dalam GIF.)
