@@ -9,11 +9,11 @@ The app’s unique edge lies in its consolidation of anime-related content, elim
 [Download the app here. (Google Drive)](https://drive.google.com/drive/folders/1RmIQgCIg-_VX-Xl37YjNNwO0A8-WP2dv?usp=sharing)
 
 ## Project Team
-- Rayhan Ahmad Rizalullah		[121140002]
-- Andreas Pascalis Tristan		[121140017]
-- Leonardo Alfontus Mende Sirait	[121140028]
-- Richard Arya Winarta			[121140035]
-- David Gunawan			[121140062]
+- Rayhan Ahmad Rizalullah [121140002] @ray-ahmad
+- Andreas Pascalis Tristan [121140017]
+- Leonardo Alfontus Mende Sirait [121140028]
+- Richard Arya Winarta [121140035]
+- David Gunawan [121140062]
 
 ## Features
 - Welcome Screen
