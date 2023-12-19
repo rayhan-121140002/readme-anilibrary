@@ -13,7 +13,7 @@ AniLibrary is an innovative and user-friendly mobile application designed for yo
 
 - Season Anime Feeds
 
-  ![Season Anime Feeds](https://drive.google.com/uc?export=view&id=1OU1vO3kX9JBnpU22KczFErsZJCbX11Z_)
+  ![Season Anime Feeds](https://drive.google.com/uc?export=view&id=1JinY0JiE57H9EU2g-E1Km8sy25IfyxLe)
 
 - Anime Exploration
 
